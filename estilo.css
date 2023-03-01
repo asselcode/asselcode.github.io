@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(fondo.jpg);   
+    background-size: cover;
+    background-position: center;
+}
+
+h1{
+    font-family: 'Tilt Prism', cursive;
+}
+
+h2{
+    font-family: 'Climate Crisis', cursive; 
+}
+
+p{
+    font-family: 'Climate Crisis', cursive;
+}
+
+ul{
+    font-family: 'Staatliches', cursive;
+}
+
+i{
+    color: black;
+    font-size: 100px;
+    margin-left: 25px;
+    margin-right: 25px;
+    
+}
+
+.flexbox {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+       
+}
